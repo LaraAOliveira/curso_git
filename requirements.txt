@@ -1,1 +1,1 @@
-colocar os apctes necessários
+colocar os pacotes necessários
